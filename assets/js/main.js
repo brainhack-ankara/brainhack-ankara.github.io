@@ -185,7 +185,7 @@
 					event.stopPropagation();
 
 			})
-			.prepend('<div class="modal" tabIndex="-1"><div class="inner"><img src="" /></div></div>')
+			.prepend('<div class="modal" tabIndex="-1"><div class="inner"><img src="https://raw.githubusercontent.com/brainhack-ankara/brainhack-ankara.github.io/main/assets/images/bha_ankara_green.jpg" /></div></div>')
 				.find('img')
 					.on('load', function(event) {
 
