@@ -51,7 +51,7 @@
 
 				// Apply img as background.
 					$this
-						.css('background-image', 'url("' + $img.attr('src') + '")')
+						.css('background-image', 'url("https://raw.githubusercontent.com/brainhack-ankara/brainhack-ankara.github.io/main/assets/images/bha_ankara_green.jpg' + $img.attr('src') + '")')
 						.css('background-position', $this.data('position'))
 						.css('background-size', 'cover')
 						.css('background-repeat', 'no-repeat');
@@ -69,7 +69,7 @@
 
 				// Apply img as background.
 					$this
-						.css('background-image', 'url("' + $img.attr('src') + '")')
+						.css('background-image', 'url("https://raw.githubusercontent.com/brainhack-ankara/brainhack-ankara.github.io/main/assets/images/bha_ankara_green.jpg' + $img.attr('src') + '")')
 						.css('background-position', 'center')
 						.css('background-size', 'cover')
 						.css('background-repeat', 'no-repeat');
